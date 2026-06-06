@@ -191,15 +191,6 @@ Most test cases passed successfully. Failed cases were mainly caused by data qua
 - Add event localization at the frame level.
 - Deploy the model on edge devices or live streaming platforms.
 
-## Team
-
-- Sudeep Sanshi - 01FE23BCI101
-- Guru Bandathar - 01FE23BCI120
-- Chetan Honnalli - 01FE23BCI108
-- Nandeesh I B - 01FE23BCI092
-
-Guide: Umadevi F. M, Assistant Professor, School of Computer Science and Engineering, KLE Technological University, Hubballi.
-
 ## Academic Context
 
 This work was developed as a fifth-semester mini project for the Bachelor of Engineering program in Computer Science and Engineering during the academic year 2025-2026.
