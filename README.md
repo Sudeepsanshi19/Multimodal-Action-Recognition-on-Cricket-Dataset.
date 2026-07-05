@@ -139,10 +139,10 @@ Fusion comparison:
 
 | Visual Model | Audio Model | Early Fusion | Late Fusion | Gated Fusion | Attention Fusion |
 | --- | --- | ---: | ---: | ---: | ---: |
-| ResNet18 | YAMNet | 0.788 | 0.850 | 0.860 | 0.860 |
+| ResNet18 | YAMNet | 0.788 | 0.830 | 0.820 | 0.860 |
 | R3D-18 | MFCC | 0.790 | 0.740 | 0.770 | 0.770 |
 | ResNet18 | VGGish | 0.760 | 0.760 | 0.780 | 0.800 |
-| C3D | CLAP | 0.837 | 0.873 | 0.860 | 0.800 |
+| C3D | CLAP | 0.837 | 0.820 | 0.830 | 0.800 |
 | C3D | MFCC | 0.550 | 0.760 | 0.750 | 0.770 |
 
 Although C3D + CLAP with late fusion achieved the highest raw accuracy of 87.3%, ResNet18 + YAMNet with attention fusion was selected as the most suitable model because it provided a better balance of accuracy, class-wise consistency, robustness, and interpretability.
